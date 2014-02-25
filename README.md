@@ -1,0 +1,4 @@
+django-themes
+=============
+
+django-themes
